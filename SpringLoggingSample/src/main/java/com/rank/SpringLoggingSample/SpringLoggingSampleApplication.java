@@ -13,4 +13,6 @@ public class SpringLoggingSampleApplication {
 	
 	//first change
 	//second change
+	
+	//third change
 }
