@@ -10,4 +10,6 @@ public class SpringLoggingSampleApplication {
 		SpringApplication.run(SpringLoggingSampleApplication.class, args);
 	}
 
+	
+	//first change
 }
